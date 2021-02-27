@@ -1,2 +1,0 @@
-# helbiz
-Interview
